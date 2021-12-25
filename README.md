@@ -1,2 +1,2 @@
 # India-Vix
-India Vix ML predictions 
+This project uses Support Vector Regressors and Random Forest to predict stock prices in India
